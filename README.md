@@ -68,9 +68,9 @@ A tela inicial direciona o usuário para qualquer uma das operações do gerenci
 Formulário para envio de dados com tratamento de campos vazios. O ID não é solicitado pois é gerado pelo banco.
 
 <img width="321" height="576" alt="{B168EF5A-3976-4A46-86E3-CB05941812C0}" src="https://github.com/user-attachments/assets/6536527b-2ade-4fe7-bc23-6f8f696597de" />
-
+<br>
 <img width="323" height="208" alt="{CC304870-2864-419E-A28B-E81B94B21BEF}" src="https://github.com/user-attachments/assets/7b57b882-f978-4706-9b01-8b0393e25eff" />
-
+<br>
 <img width="317" height="303" alt="{116B56E4-529C-4DD7-9FE4-71814818C287}" src="https://github.com/user-attachments/assets/5b49c1ab-99de-4640-b486-1c2179932dd5" />
 
 ---
@@ -92,12 +92,12 @@ Permite listar todo o estoque em um painel rolável (`ScrollView`) ou buscar um 
 Altera os dados de registros existentes enviando as novas informações atreladas ao ID correto.
 
 <img width="286" height="577" alt="{99235EEF-98AD-40E8-9076-55923EC1B4BA}" src="https://github.com/user-attachments/assets/b599177a-3cc8-47b9-9de6-b2a2cb7b24b7" />
-
+<br>
 <img width="295" height="240" alt="{572B5F4B-7EF0-4A1E-8B9A-B5845BAC899B}" src="https://github.com/user-attachments/assets/474e66a1-09a8-4f09-98e3-3e6630559fc6" />
 
 - Verificação
 <img width="301" height="172" alt="{9BB710A7-510D-4F37-8E81-4EBAB86AF7B2}" src="https://github.com/user-attachments/assets/4a50dc54-75f9-4d06-b469-33cfb0a94528" />
-
+<br>
 <img width="302" height="213" alt="{6D926D18-547B-4DD9-BBAB-B6C834023641}" src="https://github.com/user-attachments/assets/cdab5f9f-bcb8-4567-9ea1-7fcf0166b862" />
 
 ---
@@ -106,7 +106,7 @@ Altera os dados de registros existentes enviando as novas informações atrelada
 Demonstração da remoção de itens e o sistema de contramedidas agindo: caso o usuário tente buscar, editar ou deletar um ID que não existe, a API responde com o Status `404 Not Found` e o aplicativo exibe o erro amigavelmente.
 
 <img width="319" height="577" alt="{4060C3F4-6243-4CEC-895F-CAD095C49754}" src="https://github.com/user-attachments/assets/cfeb926d-6e40-4a43-99a5-0a96fcb4dde3" />
-
+<br>
 <img width="306" height="200" alt="{EFAABAE8-4869-42EB-8FD4-A950FD6C977A}" src="https://github.com/user-attachments/assets/c39c48f1-6587-4813-baa6-f3a93486b447" />
 
 - Verificação
