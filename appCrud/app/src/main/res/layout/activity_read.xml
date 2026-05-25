@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Consulta de Produtos"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="16dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="16dp">
+
+        <EditText
+            android:id="@+id/etBuscarId"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="ID do Produto"
+            android:inputType="number" />
+
+        <Button
+            android:id="@+id/btnBuscarPorId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Buscar ID" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnListarTodos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Listar Todos os Produtos"
+        android:layout_marginBottom="16dp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#F9F9F9"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/tvResultadoConsultas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Os resultados aparecerão aqui..."
+            android:textSize="16sp" />
+    </ScrollView>
+</LinearLayout>
