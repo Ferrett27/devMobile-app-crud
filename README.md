@@ -94,7 +94,7 @@ Altera os dados de registros existentes enviando as novas informações atrelada
 <img width="286" height="577" alt="{99235EEF-98AD-40E8-9076-55923EC1B4BA}" src="https://github.com/user-attachments/assets/b599177a-3cc8-47b9-9de6-b2a2cb7b24b7" />
 <br>
 <img width="295" height="240" alt="{572B5F4B-7EF0-4A1E-8B9A-B5845BAC899B}" src="https://github.com/user-attachments/assets/474e66a1-09a8-4f09-98e3-3e6630559fc6" />
-<br>
+
 - Verificação usando a consulta
 <img width="301" height="172" alt="{9BB710A7-510D-4F37-8E81-4EBAB86AF7B2}" src="https://github.com/user-attachments/assets/4a50dc54-75f9-4d06-b469-33cfb0a94528" />
 <br>
@@ -108,7 +108,7 @@ Demonstração da remoção de itens e o sistema de contramedidas agindo: caso o
 <img width="319" height="577" alt="{4060C3F4-6243-4CEC-895F-CAD095C49754}" src="https://github.com/user-attachments/assets/cfeb926d-6e40-4a43-99a5-0a96fcb4dde3" />
 <br>
 <img width="306" height="200" alt="{EFAABAE8-4869-42EB-8FD4-A950FD6C977A}" src="https://github.com/user-attachments/assets/c39c48f1-6587-4813-baa6-f3a93486b447" />
-<br>
+
 - Verificação usando a consulta
 <img width="297" height="212" alt="{412B0667-F66D-4812-BC1F-FB6225495E6B}" src="https://github.com/user-attachments/assets/e1dda4c8-bdf2-428d-9310-4b629baa7130" />
 
